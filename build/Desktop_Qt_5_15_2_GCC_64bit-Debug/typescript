@@ -1,0 +1,82 @@
+Script started on 2025-04-27 20:13:11+08:00 [COMMAND="sudo ../../tool/upgrade_tool uf "/media/colas/cofile/CP_SP2-10PRO_A_V1.12_LCD10_B0_4G_CN_MDM_20241105.img"" <not executed on terminal>]
+Program Data in /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool
+Loading firmware...
+Support Type:RK3568	FW Ver:b.0.00	FW Time:2024-11-05 18:43:33
+Loader ver:1.01	Loader Time:2024-11-05 17:34:41
+Start to upgrade firmware...
+[1A[2KTest Device Start
+[1A[2KTest Device Success
+[1A[2KCheck Chip Start
+[1A[2KCheck Chip Success
+[1A[2KGet FlashInfo Start
+[1A[2KGet FlashInfo Success
+[1A[2K Prepare IDB Start
+[1A[2KPrepare IDB Success
+[1A[2KDownload IDB Start
+[1A[2KDownload IDB Success
+[1A[2KDownload Firmware Start
+[1A[2KDownload Image Total(3292411K),Current(33873K)
+[1A[2KDownload Image Total(3292411K),Current(66358K)
+[1A[2KDownload Image Total(3292411K),Current(99126K)
+[1A[2KDownload Image Total(3292411K),Current(132186K)
+[1A[2KDownload Image Total(3292411K),Current(164954K)
+[1A[2KDownload Image Total(3292411K),Current(197722K)
+[1A[2KDownload Image Total(3292411K),Current(230634K)
+[1A[2KDownload Image Total(3292411K),Current(263470K)
+[1A[2KDownload Image Total(3292411K),Current(297262K)
+[1A[2KDownload Image Total(3292411K),Current(330030K)
+[1A[2KDownload Image Total(3292411K),Current(362410K)
+[1A[2KDownload Image Total(3292411K),Current(395346K)
+[1A[2KDownload Image Total(3292411K),Current(428774K)
+[1A[2KDownload Image Total(3292411K),Current(461406K)
+[1A[2KDownload Image Total(3292411K),Current(494174K)
+[1A[2KDownload Image Total(3292411K),Current(527450K)
+[1A[2KDownload Image Total(3292411K),Current(560218K)
+[1A[2KDownload Image Total(3292411K),Current(592986K)
+[1A[2KDownload Image Total(3292411K),Current(625754K)
+[1A[2KDownload Image Total(3292411K),Current(658514K)
+[1A[2KDownload Image Total(3292411K),Current(691410K)
+[1A[2KDownload Image Total(3292411K),Current(724986K)
+[1A[2KDownload Image Total(3292411K),Current(757754K)
+[1A[2KDownload Image Total(3292411K),Current(790618K)
+[1A[2KDownload Image Total(3292411K),Current(823818K)
+[1A[2KDownload Image Total(3292411K),Current(856714K)
+[1A[2KDownload Image Total(3292411K),Current(889482K)
+[1A[2KDownload Image Total(3292411K),Current(922666K)
+[1A[2KDownload Image Total(3292411K),Current(955434K)
+[1A[2KDownload Image Total(3292411K),Current(987854K)
+[1A[2KDownload Image Total(3292411K),Current(1021538K)
+[1A[2KDownload Image Total(3292411K),Current(1053786K)
+[1A[2KDownload Image Total(3292411K),Current(1086766K)
+[1A[2KDownload Image Total(3292411K),Current(1120342K)
+[1A[2KDownload Image Total(3292411K),Current(1153110K)
+[1A[2KDownload Image Total(3292411K),Current(1185986K)
+[1A[2KDownload Image Total(3292411K),Current(1218958K)
+[1A[2KDownload Image Total(3292411K),Current(1251726K)
+[1A[2KDownload Image Total(3292411K),Current(1284274K)
+[1A[2KDownload Image Total(3292411K),Current(1316966K)
+[1A[2KDownload Image Total(3292411K),Current(1350746K)
+[1A[2KDownload Image Total(3292411K),Current(1383514K)
+[1A[2KDownload Image Total(3292411K),Current(1416282K)
+[1A[2KDownload Image Total(3292411K),Current(1449050K)
+[1A[2KDownload Image Total(3292411K),Current(1481818K)
+[1A[2KDownload Image Total(3292411K),Current(1515034K)
+[1A[2KDownload Image Total(3292411K),Current(1547698K)
+[1A[2KDownload Image Total(3292411K),Current(1580466K)
+[1A[2KDownload Image Total(3292411K),Current(1613358K)
+[1A[2KDownload Image Total(3292411K),Current(1647150K)
+[1A[2KDownload Image Total(3292411K),Current(1679450K)
+[1A[2KDownload Image Total(3292411K),Current(1712466K)
+[1A[2KDownload Image Total(3292411K),Current(1745234K)
+[1A[2KDownload Image Total(3292411K),Current(1778002K)
+[1A[2KDownload Image Total(3292411K),Current(1811794K)
+[1A[2KDownload Image Total(3292411K),Current(1844562K)
+[1A[2KDownload Image Total(3292411K),Current(3291210K)
+[1A[2KDownload Image Total(3292411K),Current(3292411K)
+[1A[2KDownload Image Total(3292411K),Current(3292411K)
+[1A[2KDownload Firmware Success
+[1A[2KReset Device Start
+[1A[2KReset Device Success
+[1A[2KUpgrade firmware ok.
+
+Script done on 2025-04-27 20:14:16+08:00 [COMMAND_EXIT_CODE="0"]
