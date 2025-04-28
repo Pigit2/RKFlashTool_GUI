@@ -1,0 +1,35 @@
+16:13:12 	Upgrade Tool v1.59
+
+16:13:12 	Current process in /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool
+16:13:12 	Using /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool/config.ini
+16:13:12 	Command Line: ../../tool/upgrade_tool LD
+16:13:51 	Upgrade Tool v1.59
+
+16:13:51 	Current process in /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool
+16:13:51 	Using /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool/config.ini
+16:13:51 	Command Line: ../../tool/upgrade_tool LD
+16:14:04 	Upgrade Tool v1.59
+
+16:14:04 	Current process in /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool
+16:14:04 	Using /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool/config.ini
+16:14:04 	Command Line: ../../tool/upgrade_tool LD
+16:14:08 	Upgrade Tool v1.59
+
+16:14:08 	Current process in /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool
+16:14:08 	Using /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool/config.ini
+16:14:08 	Command Line: ../../tool/upgrade_tool LD
+16:18:10 	Upgrade Tool v1.59
+
+16:18:10 	Current process in /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool
+16:18:10 	Using /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool/config.ini
+16:18:10 	Command Line: ../../tool/upgrade_tool LD
+16:20:30 	Upgrade Tool v1.59
+
+16:20:30 	Current process in /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool
+16:20:30 	Using /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool/config.ini
+16:20:30 	Command Line: ../../tool/upgrade_tool LD
+20:19:13 	Upgrade Tool v1.59
+
+20:19:13 	Current process in /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool
+20:19:13 	Using /media/colas/cofile/cp_file/project_QT/RKFlashTools/tool/config.ini
+20:19:13 	Command Line: ../../tool/upgrade_tool LD
