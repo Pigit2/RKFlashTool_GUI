@@ -66,8 +66,10 @@ void FlashTool::detectDevices() {
     // 解析loader设备
     process.start("../../tool/upgrade_tool", {"LD"});
     process.waitForFinished();
+    process.start("pwd");
+    process.waitForFinished();
     output = process.readAllStandardOutput() + process.readAllStandardError();
-    // emit updateLog(output);
+    emit updateLog(output);
 
     QStringList lines2 = output.split('\n');
     for (const QString &line : lines2) {
