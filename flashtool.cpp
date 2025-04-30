@@ -64,7 +64,7 @@ void FlashTool::detectDevices() {
     }
 
     // 解析loader设备
-    process.start("../../tool/upgrade_tool", {"LD"});
+    process.start("tool/upgrade_tool", {"LD"});
     process.waitForFinished();
     output = process.readAllStandardOutput() + process.readAllStandardError();
     // emit updateLog(output);
@@ -149,6 +149,6 @@ void FlashTool::flashFirmware(const QString &firmwarePath) {
                 m_flashProcess = nullptr;
             });
 
-    QStringList args = {"-c", "sudo ../../tool/upgrade_tool uf \"" + firmwarePath + "\"" };
+    QStringList args = {"-c", "sudo tool/upgrade_tool uf \"" + firmwarePath + "\"" };
     m_flashProcess->start("script", args);
 }
