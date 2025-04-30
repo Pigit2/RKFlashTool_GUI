@@ -66,7 +66,11 @@ void FlashTool::detectDevices() {
     // 解析loader设备
     process.start("../../tool/upgrade_tool", {"LD"});
     process.waitForFinished();
+
+    auto env = QProcessEnvironment::systemEnvironment();
+    qDebug() << "PATH=" << env.value("PATH");
     process.start("pwd");
+
     process.waitForFinished();
     output = process.readAllStandardOutput() + process.readAllStandardError();
     emit updateLog(output);
